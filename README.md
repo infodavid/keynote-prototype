@@ -1,5 +1,10 @@
 ## 用 Keynote 制作交互动效设计
 
+先看简单效果
+
+<video width="300" height="540" src="./assets/google-test.mp4" controls="controls">
+</video>
+
 ### 准备工作
 
 - 硬件准备：Mac
